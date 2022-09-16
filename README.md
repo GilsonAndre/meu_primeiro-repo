@@ -1,2 +1,8 @@
 # Meu Primeiro Repositorio
-Meu Primeiro repositório 
+
+### Funcionalidades
+
+- A
+- B
+- C
+
